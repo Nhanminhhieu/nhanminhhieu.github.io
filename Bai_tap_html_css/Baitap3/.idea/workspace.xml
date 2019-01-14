@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7f6933d-65f5-4060-ad9f-583c035b4583" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Bai_tap_Javascript/Baitap3.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai_tap_Javascript/Baitap3.1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Bai_tap_Javascript/Baitap3.1/baitap3.1.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai_tap_Javascript/Baitap3.1/baitap3.1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Bai_tap_Javascript/Baitap3.1/baitap3.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai_tap_Javascript/Baitap3.1/baitap3.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Bai_tap_Javascript/Baitap3.1/baitap3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai_tap_Javascript/Baitap3.1/baitap3.1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Bai_tap_Jquery/Baitap4Jquery/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai_tap_Jquery/Baitap4Jquery/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Baitap1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Baitap1/baitap1.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap1/baitap1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Baitap2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Baitap2/baitap2.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap2/baitap2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Baitap2/baitap2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap2/baitap2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap3.css" beforeDir="false" afterPath="$PROJECT_DIR$/baitap3.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Baitap4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap4/baitap4.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap4/baitap4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap4/baitap4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap4/baitap4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap5/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap5/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap5/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,8 +18,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/baitap3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="935">
-              <caret line="55" column="42" selection-start-line="55" selection-start-column="42" selection-end-line="55" selection-end-column="42" />
+            <state relative-caret-position="578">
+              <caret line="76" column="45" selection-start-line="76" selection-start-column="45" selection-end-line="76" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -36,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/baitap3.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="80" column="35" lean-forward="true" selection-start-line="80" selection-start-column="35" selection-end-line="80" selection-end-column="35" />
+            <state relative-caret-position="279">
+              <caret line="62" column="10" selection-start-line="62" selection-start-column="2" selection-end-line="62" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -54,10 +45,11 @@
       <find>content__bottom__right_custom-hr</find>
       <find>line-h</find>
       <find>height</find>
+      <find>backgrou</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -81,7 +73,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Baitap4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Baitap2" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -116,11 +108,12 @@
       <workItem from="1546705473630" duration="623000" />
       <workItem from="1547435208767" duration="3318000" />
       <workItem from="1547439105753" duration="22000" />
+      <workItem from="1547449598943" duration="483000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9842000" />
+    <option name="totallyTimeSpent" value="10325000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
@@ -173,15 +166,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/baitap3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="55" column="42" selection-start-line="55" selection-start-column="42" selection-end-line="55" selection-end-column="42" />
+        <state relative-caret-position="578">
+          <caret line="76" column="45" selection-start-line="76" selection-start-column="45" selection-end-line="76" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/baitap3.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="80" column="35" lean-forward="true" selection-start-line="80" selection-start-column="35" selection-end-line="80" selection-end-column="35" />
+        <state relative-caret-position="279">
+          <caret line="62" column="10" selection-start-line="62" selection-start-column="2" selection-end-line="62" selection-end-column="10" />
         </state>
       </provider>
     </entry>

@@ -1,6 +1,6 @@
 $(document).ready(function () {
         var leaf = 5;
-        for( var i = 0; i <= 30; i++) {
+        for( var i = 0; i <= 60; i++) {
             var randomImg = 1 + Math.floor(Math.random() * leaf);
             var imgLeaf = "leaves" + randomImg;
             var myImage = $('<img/>');

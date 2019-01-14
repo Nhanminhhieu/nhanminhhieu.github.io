@@ -18,5 +18,6 @@
 }
 .container__background1 img{
   position: absolute;
+  margin-top: 57px;
   left: 240px;
 }

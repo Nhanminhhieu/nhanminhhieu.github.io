@@ -1,99 +1,47 @@
-// var Piechart = function (options) {
-//     this.options = options;
-//     var canvas = options.canvas;
-//     var centerX = options.centerX;
-//     var centerY = options.centerY;
-//     var radius = options.radius;
-//     var color = options.colors;
-//     var ctx = options.ctx;
-//     var myrate = options.data;
-//     var title = options.title;
-//     var sliceHeight = 250;
-//     var fixX = 10;
-//     var fixY = 10;
-//     ctx.scale(1,0.3);
-//
-//     this.printChart = function (i) {
-//         if( i< sliceHeight ){
-//             ctx.fillStyle = color.successDown;
-//         }
-//         else{
-//             ctx.fillStyle = color.successUp;
-//         }
-//         ctx.beginPath();
-//     //    ctx.moveTo(centerX,centerY-i);
-//         ctx.arc(centerX, centerY-i, radius, 550, myrate.success*2*Math.PI + 550);
-//         ctx.fill();
-//         ctx.closePath();
-//
-//         if( i<sliceHeight ){
-//             ctx.fillStyle = color.failDown;
-//         }
-//         else{
-//             ctx.fillStyle = color.failUp;
-//         }
-//         ctx.beginPath();
-//         ctx.moveTo(centerX + fixX,centerY + fixY -i);
-//         ctx.arc(centerX + fixX, centerY + fixY - i, radius,myrate.success*2*Math.PI+550, 550);
-//         ctx.fill();
-//         ctx.closePath();
-//     }
-//
-//     this.printLineSuccess = function () {
-//         ctx.beginPath();
-//         ctx.moveTo(centerX + 50, centerY - 250);
-//         ctx.lineTo(650,100);
-//         ctx.lineTo(850, 100);
-//         ctx.lineWidth = 5;
-//         ctx.strokeStyle = color.successDown;
-//         ctx.stroke();
-//     }
-//
-//     this.printLineFail = function (){
-//         ctx.beginPath();
-//         ctx.moveTo(centerX - 130, centerY - 180);
-//         ctx.lineTo(200,100);
-//         ctx.lineTo(20, 100);
-//         ctx.lineWidth = 5;
-//         ctx.strokeStyle = color.failDown;
-//         ctx.stroke();
-//     }
-//
-//     this.printTitle = function () {
-//         ctx.scale(1, 3);
-//         ctx.beginPath();
-//         ctx.font = "20px Arial";
-//         ctx.fillStyle = "black";
-//         ctx.fillText(title,350,370);
-//         ctx.stroke();
-//     }
-//
-//     this.printTextSuccess = function () {
-//         ctx.scale(1, 1);
-//         ctx.beginPath();
-//         ctx.font = "20px Arial";
-//         ctx.fillStyle = "black";
-//         ctx.fillText("80% Đã đạt",50,20);
-//         ctx.stroke();
-//     }
-//
-//     this.printTextFail = function () {
-//         ctx.scale(1, 1);
-//         ctx.beginPath();
-//         ctx.font = "20px Arial";
-//         ctx.fillStyle = "black";
-//         ctx.fillText("20% chưa đạt",675,20);
-//         ctx.stroke();
-//     }
-//
-//
-//     this.print = function () {
-//             for( var i=0; i<=1; i++)
-//                 this.printChart(i);
-//          //   this.printLineSuccess();
-//           //  this.printLineFail();
-//          //  this.printTitle();
-//           //  this.printTextSuccess();
-//        //     this.printTextFail();
-//         }
-// }
+var Piechart = function (options) {
+    var ctx = options.ctx;
+    var myRate = options.data;
+    var color = options.colors;
+    var title = options.title;
+    this.printChart = function () {
+        drawText(ctx,"80% Đã đạt",200,90,"black");
+        drawText(ctx,"20% chưa đạt",700,40,"black");
+        drawText(ctx,title,250,520,"blue");
+       ctx.scale(1.5,0.5);
+        for(var i = 0; i < 100; i++) {
+            drawPieSlice(ctx, 300-10, 800-i-10, 150, 0, myRate.success * 2 * Math.PI, color.successBottom);
+            drawPieSlice(ctx, 300-10, 800-i-20, 150, myRate.success * 2 * Math.PI,  0, color.failBottom);
+            if(i==99)
+            {
+                drawPieSlice(ctx, 300-10, 800-i-10, 150, 0, myRate.success * 2 * Math.PI,color.successTop);
+                drawPieSlice(ctx, 300-10, 800-i-20, 150, myRate.success * 2 * Math.PI,  0,color.failTop);
+                drawLine(ctx,250,600,200,200,100,200,4,"#3145ff");
+                drawLine(ctx,350,600,450,100,600,100,4,"#ff2e60");
+            }
+        }
+    }
+}
+function drawPieSlice (ctx,centerX, centerY, radius, startAngle, endAngle, color) {
+    ctx.beginPath();
+    ctx.fillStyle = color
+    ctx.moveTo(centerX,centerY);
+    ctx.arc(centerX, centerY, radius, startAngle, endAngle);
+    ctx.closePath();
+    ctx.fill();
+}
+function drawLine (ctx,x1,y1,x2,y2,x3,y3,line,color){
+    ctx.beginPath();
+    ctx.moveTo(x1, y1);
+    ctx.lineTo(x2,y2);
+    ctx.lineTo(x3, y3);
+    ctx.lineWidth = line;
+    ctx.strokeStyle = color;
+    ctx.stroke();
+}
+function drawText(ctx, text, x , y, color) {
+    ctx.beginPath();
+    ctx.font = "20px Time New Roman";
+    ctx.fillStyle = color;
+    ctx.fillText(text,x,y);
+    ctx.stroke();
+}

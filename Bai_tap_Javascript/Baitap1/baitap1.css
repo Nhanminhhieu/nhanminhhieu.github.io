@@ -6,35 +6,35 @@
   margin-left: auto;
   margin-right: auto;
   width: 500px;
-  height: 1000px;
-  background: aliceblue;
+  padding-bottom: 80px;
+  background: #e8e5e0;
 }
 .input {
   padding-top: 60px;
   width: 341px;
   margin-left: 50px;
 }
-ul {
+.list-product {
   counter-reset: my-counter;
   margin-left: 50px;
   margin-right: 70px;
   padding-left: 0;
   list-style-type: none;
 }
-ul li{
+.list-product li{
   margin-top: 10px;
   padding-top: 20px;
   padding-left: 20px;
   padding-bottom: 20px;
   background: white;
 }
-ul :before{
+.list-product ul :before{
   counter-reset: my-sec-counter;
 }
-ul li::before{
+.list-product li::before{
   counter-increment: my-counter;
   content: counter(my-counter);
-  border: 2px solid gray;
+  border: 2px solid #808080;
   border-radius: 50%;
   margin-right: 10px;
   width: 2em;
@@ -42,6 +42,8 @@ ul li::before{
   line-height: 2em;
   display: inline-block;
   text-align: center;
+  font-weight: bold;
+  color: #808080;
 }
 .btn__remove {
   margin-top: 7px;

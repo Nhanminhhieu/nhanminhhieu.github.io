@@ -11,11 +11,12 @@ function addList() {
    input.className = "btn__remove";
    input.value = "X";
    li.appendChild(input);
+   //check text input empty
    if(txtInput === "") {
       alert("Không được để trống");
    }
    else {
-       document.getElementById("list").appendChild(li);
+       document.getElementById("js-list-product").appendChild(li);
        document.getElementById("txtInput").value = '';
        document.getElementById("txtInput").focus();
    }
