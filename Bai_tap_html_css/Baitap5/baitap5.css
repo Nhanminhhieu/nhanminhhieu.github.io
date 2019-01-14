@@ -1,0 +1,83 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 0;
+}
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  width:  1024px;
+  overflow: hidden;
+  background-image: url("images/pic_back.jpg");
+}
+.custom__hr {
+  border: 2.5px solid #b98030;
+}
+.list__menu {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+ }
+.list__menu li {
+  position: relative;
+  display: block;
+}
+.button {
+  position: absolute;
+  left: 66px;
+  margin-top: 223px;
+}
+li:nth-child(2n) .button {
+  left: 26px;
+}
+.button:hover {
+  position: absolute;
+  content: url("images/png_btn_clicked.jpg");
+}
+.button--margin {
+  margin-top: 230px;
+}
+.poster {
+  width: 100%;
+}
+.poster img {
+  float: right;
+  margin-right: 1px;
+  margin-top: 22px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+}
+.footer {
+  clear: both;
+  padding-top: 16px;
+  padding-bottom: 38px;
+  margin-bottom: 127px;
+  background: #8b1a20;
+}
+.footer ul li{
+  display: inline;
+  font-size: 10.5px;
+  margin-left: 28px;
+}
+.footer__left__link {
+  font-size: 10.5px;
+  text-decoration: none;
+  color: #fff;
+}
+.footer__left__link:before {
+  content: url("images/icn_list.jpg");
+  padding-right: 8px;
+}
+.footer__left {
+  float: left;
+}
+.footer__right {
+  float: right;
+  font-size: 10px;
+  font-family: Century;
+  margin-right: 26px;
+  letter-spacing: 1px;
+  color: #fff;
+  clear: both;
+}

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Bai tap 2 javascript</title>
+  <link rel="stylesheet" type="text/css" href="baitap2.1.css">
+  <script src="baitap2.1.js"></script>
+</head>
+<body>
+  <input type="text" id="datetime" maxlength="10" onclick="createCalender()"/>
+  <img  id="icon_imgcalendar" src="images/png_calendar.png"">
+  <table id="table__date">
+    <tr id="table__date__row1">
+      <td onclick="giamNam()">&#8592;<br/>&#8592;</td>
+      <td onclick="giamThang()">&#8592;</td>
+      <td colspan="2">
+        <select id="cbo__month" onchange="selectMonthAndYearChange()">
+        </select>
+      </td>
+      <td>
+        <select id="cbo__year" onchange="selectMonthAndYearChange()">
+        </select>
+      </td>
+      <td onclick="tangThang()">&#8594;</td>
+      <td onclick="tangNam()">&#8594;<br/>&#8594;</td>
+    </tr>
+    <tr id="day__name">
+      <td>Sun</td>
+      <td>Mon</td>
+      <td>Tue</td>
+      <td>Web</td>
+      <td>Thu</td>
+      <td>Fri</td>
+      <td>Sat</td>
+    </tr>
+  </table>
+</body>
+</html>

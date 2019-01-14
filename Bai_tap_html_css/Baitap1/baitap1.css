@@ -1,0 +1,101 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+h3 {
+  font-size: 17px;
+}
+body {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Times New Roman", "VNI-Times", "serif";
+  font-size: 15px;
+  border: 1px solid #dfdfdf;
+}
+.profile__title {
+  height: 27px;
+  background: url(images/png_title.png);
+}
+.player__profile-avatar {
+  float: left;
+  width: 81px;
+  height: 90px;
+  margin: 1px 3px 0 15px;
+}
+.player__profile-info {
+  float: right;
+  overflow: scroll;
+  width: 76%;
+  height: 100px;
+  padding-left: 10px;
+  margin-right: 9px;
+  list-style-type: none;
+}
+.fact {
+  clear: both;
+}
+.fact h3{
+  margin-left: 3px;
+  margin-top: 115px;
+}
+.fact__content {
+  margin-left: 37px;
+  margin-top: 17px;
+  margin-bottom: 59px;
+  list-style-type: none;
+}
+.fact__content li {
+  padding-right: 60px;
+  padding-bottom: 2.5px;
+}
+.fact__content li:before{
+  margin-right: 5px;
+  content: url("images/png_star.png");
+}
+.fact__comment {
+  margin-top: 63px;
+  position: relative;
+  margin: 1px;
+  padding: 6px 0 1px 19px;
+  background: #ececec;
+}
+.fact__comment-post {
+  font-size: 13px;
+  padding: 1px 0 2px 52px;
+}
+.fact__comment-linkpost {
+  text-decoration: none;
+}
+.fact__comment--margin {
+  margin-top: -1px;
+}
+.your__comment {
+  margin-top: 20px;
+}
+.your__comment h3 {
+  text-align: center;
+}
+.fact__comment-post--margin {
+  margin-top: -1px;
+}
+.your__comment textarea {
+  resize: none;
+  width: 378px;
+  height: 85px;
+  padding-left: 5px;
+  margin-right: 3px;
+}
+.your__comment-tablecontrol {
+  padding-left: 5px;
+  margin-top: -2px;
+}
+.your__comment-label {
+  margin-left: 5px;
+  margin-top: 5px;
+}
+.your__comment-text {
+  width: 142px;
+  height: 19px;
+  padding-right: 4px;
+}

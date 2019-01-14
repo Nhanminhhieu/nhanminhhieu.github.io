@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  position: relative;
+  margin: auto;
+  width: 1500px;
+  height: 450px;
+  background-image: url("img/tail.jpg");
+}
+.container__background img{
+  position: absolute;
+  margin-top: 57px;
+  left: 140px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.container__background1 img{
+  position: absolute;
+  left: 240px;
+}

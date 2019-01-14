@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padđing: 0;
+}
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  height: 1000px;
+  background: aliceblue;
+}
+.input {
+  padding-top: 60px;
+  width: 341px;
+  margin-left: 50px;
+}
+ul {
+  counter-reset: my-counter;
+  margin-left: 50px;
+  margin-right: 70px;
+  padding-left: 0;
+  list-style-type: none;
+}
+ul li{
+  margin-top: 10px;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  background: white;
+}
+ul :before{
+  counter-reset: my-sec-counter;
+}
+ul li::before{
+  counter-increment: my-counter;
+  content: counter(my-counter);
+  border: 2px solid gray;
+  border-radius: 50%;
+  margin-right: 10px;
+  width: 2em;
+  height: 2em;
+  line-height: 2em;
+  display: inline-block;
+  text-align: center;
+}
+.btn__remove {
+  margin-top: 7px;
+  margin-right: 10px;
+  float: right;
+  color: white;
+  font-weight: bold;
+  background: red;
+}
