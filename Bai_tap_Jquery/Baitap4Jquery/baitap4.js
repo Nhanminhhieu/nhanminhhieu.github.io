@@ -1,5 +1,6 @@
+//event move mouse change value css left
 $(document).ready(function () {
     $( ".container__background" ).mousemove(function( event ) {
-        $(".container__background1 img").css({"left": event.pageX/90+200});
+        $(".js-container__background1").css({"left": event.pageX/90+200});
     });
 });
