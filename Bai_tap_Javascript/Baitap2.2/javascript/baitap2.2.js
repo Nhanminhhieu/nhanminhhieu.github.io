@@ -1,9 +1,7 @@
 function checkInput()
 {
-    checkUsername();
-    checkPass();
-    checkEmail();
-    checkBrithday();
+    if(checkPass() == true && checkUsername() && checkEmail() == true && checkBrithday() == true)
+        window.location="https://intense-savannah-85627.herokuapp.com/";
 }
 //check username correct format
 function checkUsername() {

@@ -130,8 +130,8 @@ function dayClick() {
     var select_month = document.getElementById("cbo__month").value;
     var select_year = document.getElementById("cbo__year").value;
     var chuoingay = checkValueDate(this.value) + "/" + checkValueDate(select_month) + "/" + select_year;
-    document.getElementById("datetime").value = chuoingay.toString();
+    document.getElementById("birthday").value = chuoingay.toString();
     var tableDate = document.getElementById("table__date");
-    deleteTable();
     tableDate.style.visibility = "collapse";
+    deleteTable();
 }
