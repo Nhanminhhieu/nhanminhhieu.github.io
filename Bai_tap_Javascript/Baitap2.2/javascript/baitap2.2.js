@@ -5,6 +5,7 @@ function checkInput()
     checkEmail();
     checkBrithday();
 }
+//check username correct format
 function checkUsername() {
     var usernameRegex = new RegExp("^[A-Za-z0-9]+$");
     var username = document.getElementById("username");
@@ -19,6 +20,7 @@ function checkUsername() {
     document.getElementById("user__error").innerHTML = "";
     return true;
 }
+//check pass correct format
 function checkPass() {
     var pass = document.getElementById("password");
     if (pass.value.length < 8) {
@@ -28,6 +30,7 @@ function checkPass() {
     document.getElementById("pass__error").innerHTML = "";
     return true;
 }
+//check email correct format
 function checkEmail() {
     var  emailRegex = new RegExp("^[a-z][a-z0-9_\\.]{5,32}@[a-z0-9]{2,}(\\.[a-z0-9]{2,4}){1,2}$");
     var email = document.getElementById("email");
@@ -39,6 +42,7 @@ function checkEmail() {
         document.getElementById("email__error").innerHTML = "";
         return true;
 }
+//check username correct format
 function checkBrithday() {
     var birth = document.getElementById("birthday");
     if(birth.value.length == 0)
@@ -55,7 +59,7 @@ function checkBrithday() {
      document.getElementById("birth__error").innerHTML = "";
      return true;
 }
-
+//reset all text input
 function reSetText() {
     document.getElementById("user__error").innerHTML = "";
     document.getElementById("pass__error").innerHTML = "";
