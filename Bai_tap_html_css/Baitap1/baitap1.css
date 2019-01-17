@@ -60,6 +60,15 @@ body {
   padding: 6px 0 1px 19px;
   background: #ececec;
 }
+.fact__comment:after {
+  position: absolute;
+  content: "";
+  border-left: 14px solid transparent;
+  border-right: 14px solid transparent;
+  border-top: 12px solid #ececec;
+  top: 100%;
+  left: 19px;
+}
 .fact__comment-post {
   font-size: 13px;
   padding: 1px 0 2px 52px;
