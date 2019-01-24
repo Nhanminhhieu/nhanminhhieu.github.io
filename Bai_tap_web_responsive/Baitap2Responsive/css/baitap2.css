@@ -1,0 +1,124 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  width: 100%;
+  margin: 0 auto;
+}
+.header {
+  width: 100%;
+  font-size: 0;
+}
+.header img {
+  width: 100%;
+}
+.content__title {
+  width: 100%;
+  background: #666666;
+  overflow: auto;
+}
+.content__title__detail {
+  text-align: center;
+  padding-top: 171px;
+  padding-bottom: 107px;
+  font-size: 48px;
+}
+.content__title__img {
+  display: block;
+  padding-bottom: 22px;
+  float: right;
+  margin-right: 15px;
+  clear: right;
+}
+.content__detail1 {
+  width: 100%;
+  text-align: center;
+  padding-top: 46px;
+  padding-bottom: 24px;
+  color: #fff;
+  font-weight: bold;
+  background: #333333;
+}
+.content__detail1 p:nth-child(1) {
+  font-size: 60px;
+}
+.content__detail1 p:nth-child(2) {
+  font-size: 40px;
+}
+.content__detail1 p:nth-child(3) {
+  font-size: 21px;
+}
+.content__detail2 {
+  width: 100%;
+  padding-left: 5.5%;
+  padding-right: 5.5%;
+  padding-bottom: 24px;
+  box-sizing: border-box ;
+}
+.content__detail2__title {
+  width: 100%;
+  padding-top: 45px;
+  font-size: 42px;
+  text-align: center;
+}
+.content__detail2 img {
+  width: 100%
+}
+.content__detail2__list__title {
+  margin-top: 60px;
+  padding-top: 22px;
+  padding-bottom: 22px;
+  text-align: center;
+  font-size: 24px;
+  border-top: 1px solid #000;
+}
+.content__detail2 p:nth-child(3) {
+  height: 130px;
+}
+.content__detail2__list__btn {
+  position: relative;
+  margin-top: 23px;
+  padding: 17px 0px 17px 21px;
+  border-radius: 5px;
+  font-size: 14px;
+  background: #cccccc;
+}
+.footer img {
+  width: 100%;
+}
+@media screen and (min-width: 1280px){
+  .content__detail2__list1 {
+    float: left;
+    width: 50%;
+    padding-right: 20px;
+  }
+  .content__detail2__list3 {
+    float: left;
+    width: 50%;
+    padding-left: 20px;
+  }
+  .content__detail2__list2 {
+    clear: both;
+    float: left;
+    width: 50%;
+    padding-right: 20px;
+  }
+  .content__detail2__list4{
+    float: left;
+    width: 50%;
+    padding-left: 20px;
+  }
+  .content__detail2:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .content__detail2 p:nth-child(3) {
+    height: 160px;
+  }
+}
+.img__hp {
+  display: none;
+}

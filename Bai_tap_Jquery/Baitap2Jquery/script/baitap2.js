@@ -31,6 +31,7 @@ $(document).ready(function () {
         moveItem(index);
         selectedItem(index);
         slideShow();
+        timeOut($(".js-item")[index]);
     });
     selectedItem(product);
     var timer;
