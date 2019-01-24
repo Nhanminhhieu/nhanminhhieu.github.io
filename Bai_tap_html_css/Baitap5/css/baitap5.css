@@ -8,7 +8,7 @@
   margin-right: auto;
   width:  1024px;
   overflow: hidden;
-  background-image: url("images/pic_back.jpg");
+  background-image: url("../images/pic_back.jpg");
 }
 .custom__hr {
   border: 2.5px solid #b98030;
@@ -33,7 +33,7 @@ li:nth-child(2n) .button {
 }
 .button:hover {
   position: absolute;
-  content: url("images/png_btn_clicked.jpg");
+  content: url("../images/png_btn_clicked.jpg");
 }
 .button--margin {
   margin-top: 230px;
@@ -66,7 +66,7 @@ li:nth-child(2n) .button {
   color: #fff;
 }
 .footer__left__link:before {
-  content: url("images/icn_list.jpg");
+  content: url("../images/icn_list.jpg");
   padding-right: 8px;
 }
 .footer__left {

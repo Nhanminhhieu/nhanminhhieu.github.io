@@ -2,26 +2,25 @@ $(document).ready(function () {
     $(".content").hide();
     var oldIndexClicked = "";
     //when img click change img hover, this id slideup
-    $(".about").bind("click", function(){
-        var idClicked = "#" + $(this).attr("id");
-        $(idClicked).attr("src","images/" +$(this).attr("id")+ "_mb_hover.jpg");
-        $(this).next().slideToggle();
+    $(".about").click( function(){
+        var idClicked = $(".about").index($(this)) + 1;
+        $(".about").eq(idClicked - 1).attr("src","images/about" + idClicked + "_mb_hover.jpg");
+         $(this).next().slideToggle();
         //close tagIndex old
-        if(oldIndexClicked != idClicked) {
-            var oldIndex = oldIndexClicked.substring(1,7);
-            $(oldIndexClicked).attr("src", "images/" +oldIndex+ "_mb.jpg");
-            $(oldIndexClicked).next().hide();
+        if(oldIndexClicked != idClicked && oldIndexClicked !="") {
+           $(".about").eq(oldIndexClicked - 1).attr("src", "images/about" + oldIndexClicked + "_mb.jpg");
+            $(".about").eq(oldIndexClicked - 1).next().hide();
         }
         //change Img when index equal
         if(oldIndexClicked == idClicked) {
-            $(idClicked).attr("src", "images/" +$(this).attr("id")+ "_mb.jpg");
+            $(".about").eq(idClicked - 1).attr("src", "images/about" + idClicked + "_mb.jpg");
             oldIndexClicked = "";
             return;
         }
-        timeOut(idClicked);
+        timeOut(idClicked - 1);
     oldIndexClicked = idClicked;
     });
-    aboutInfo();
+     aboutInfo();
 });
 //when click show info
 function aboutInfo() {
@@ -36,8 +35,8 @@ function aboutInfo() {
 }
 //when click disable click and after able click,
 function timeOut(idClicked) {
-    $(idClicked).css({pointerEvents: "none"})
+    $(".about").eq(idClicked).css({pointerEvents: "none"})
     setTimeout( function(){
-        $(idClicked).css({pointerEvents: "auto"})
+        $(".about").eq(idClicked).css({pointerEvents: "auto"})
     }, 500);
 }

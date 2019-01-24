@@ -92,8 +92,7 @@ function giamNam() {
         return;
     document.getElementById("cbo__year").value--;
     selectMonthAndYearChange();
-}
-//when click change date
+}//when click change date
 function giamThang() {
     if(document.getElementById("cbo__month").value == 1)
         return;

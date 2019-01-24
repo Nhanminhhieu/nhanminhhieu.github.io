@@ -5,7 +5,7 @@
 .container {
   position: relative;
   margin: auto;
-  background-image: url("images/bg_itm_lineup.jpg");
+  background-image: url("../images/bg_itm_lineup.jpg");
   width: 950px;
   height: 598px;
 }

@@ -30,7 +30,7 @@ function removeList() {
     for (i = 0; i < remove.length; i++) {
         remove[i].onclick = function () {
             var div = this.parentElement;
-            div.style.display = "none";
+            div.remove();
         }
     }
 }

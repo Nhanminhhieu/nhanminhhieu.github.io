@@ -9,11 +9,13 @@ $(document).ready(function () {
         moveItem(product);
         selectedItem(product);
         slideShow();
+        timeOut(".container__btn-left");
     });
     //when btnright click
     $(".container__btn-right").click(function () {
         moveRight();
         slideShow();
+        timeOut(".container__btn-right");
     });
     function moveRight() {
         product++;
@@ -53,4 +55,11 @@ function selectedItem(product) {
 function moveItem(indexItem) {
     var position = indexItem * 750;
     $(".js-list-product").animate({left: -position})
+}
+//prevent many clicks
+function timeOut(myID) {
+    $(myID).css({pointerEvents: "none"})
+    setTimeout( function(){
+        $(myID).css({pointerEvents: "auto"})
+    }, 500);
 }

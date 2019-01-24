@@ -15,7 +15,7 @@ body {
 }
 .profile__title {
   height: 27px;
-  background: url(images/png_title.png);
+  background: url(../images/png_title.png);
 }
 .player__profile-avatar {
   float: left;
@@ -51,7 +51,7 @@ body {
 }
 .fact__content li:before{
   margin-right: 5px;
-  content: url("images/png_star.png");
+  content: url("../images/png_star.png");
 }
 .fact__comment {
   margin-top: 63px;

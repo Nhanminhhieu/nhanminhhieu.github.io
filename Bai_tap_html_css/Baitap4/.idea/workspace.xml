@@ -3,10 +3,20 @@
   <component name="ChangeListManager">
     <list default="true" id="9c09da99-b1eb-4ad9-9c0d-e96ffafe4a57" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap1/baitap1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap1/baitap1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap1/baitap1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap1/baitap1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Baitap5/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap5/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Baitap5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Jquery/Baitap3Jquery/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Jquery/Baitap3Jquery/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap1/baitap1.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap1/css/baitap1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap1/baitap1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap1/baitap1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap2/baitap2.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap2/css/baitap2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap2/baitap2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap2/baitap2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap3/baitap3.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap3/css/baitap3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap3/baitap3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap3/baitap3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap4.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/baitap4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap4.html" beforeDir="false" afterPath="$PROJECT_DIR$/baitap4.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,20 +26,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/baitap4.css">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/baitap4.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
+            <state relative-caret-position="763">
               <caret line="109" column="17" selection-start-line="109" selection-start-column="17" selection-end-line="109" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/baitap4.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="36" column="36" lean-forward="true" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
+            <state relative-caret-position="357">
+              <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
               </folding>
@@ -61,7 +71,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -73,14 +82,20 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Baitap3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Baitap5" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\nhanminhhieu.github.io\Bai_tap_html_css\Baitap4\css" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -111,17 +126,17 @@
       <workItem from="1547440322844" duration="13000" />
       <workItem from="1547440486538" duration="1696000" />
       <workItem from="1547448613595" duration="1596000" />
+      <workItem from="1548295868667" duration="25000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9153000" />
+    <option name="totallyTimeSpent" value="9178000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13785557" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14113785" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -146,20 +161,20 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/baitap4.html">
+    <entry file="file://$PROJECT_DIR$/css/baitap4.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="36" column="36" lean-forward="true" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
+        <state relative-caret-position="763">
+          <caret line="109" column="17" selection-start-line="109" selection-start-column="17" selection-end-line="109" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/baitap4.css">
+    <entry file="file://$PROJECT_DIR$/baitap4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="109" column="17" selection-start-line="109" selection-start-column="17" selection-end-line="109" selection-end-column="17" />
+        <state relative-caret-position="357">
+          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>

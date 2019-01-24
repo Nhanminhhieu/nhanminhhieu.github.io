@@ -7,7 +7,7 @@
   margin: auto;
   width: 1500px;
   height: 450px;
-  background-image: url("img/tail.jpg");
+  background-image: url("../images/tail.jpg");
 }
 .container__background img{
   position: absolute;

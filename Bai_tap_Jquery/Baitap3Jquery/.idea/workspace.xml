@@ -2,15 +2,78 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba7c5907-736f-4115-87b9-bf00c713a93f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap1/.idea/Baitap1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap1/baitap1.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap1/css/baitap1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap1/baitap1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap1/baitap1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap1/baitap1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap1/script/baitap1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap2.1/.idea/Baitap2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap2.1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap2.1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap2.1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap2.1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap2.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap2.1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap2.1/baitap2.1.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap2.1/css/baitap2.1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap2.1/baitap2.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap2.1/baitap2.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap2.1/baitap2.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap2.1/script/baitap2.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap2.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap2.2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap2.2/baitap2.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap2.2/baitap2.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap2.2/javascript/baitap2.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap2.2/script/baitap2.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap2.2/javascript/baitap2.2.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap2.2/script/baitap2.2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap2.2/stylecss/baitap2.1.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap2.2/css/baitap2.1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap2.2/stylecss/baitap2.2.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap2.2/css/baitap2.2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap3.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap3.1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap3.1/baitap3.1.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap3.1/script/baitap3.1.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap3.1/baitap3.1.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap3.1/css/baitap3.1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap3.1/baitap3.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap3.1/baitap3.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap3.1/baitap3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap3.1/script/baitap3.1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap3.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap3.2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Baitap1Jquery/baitap1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap1Jquery/baitap1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap3.2/baitap3.2.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap3.2/script/baitap3.2.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap3.2/baitap3.2.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap3.2/css/baitap3.2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap3.2/baitap3.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap3.2/baitap3.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap3.2/baitap3.2.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap3.2/script/baitap3.2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap1Jquery/baitap1.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap1Jquery/css/baitap1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap1Jquery/baitap1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap1Jquery/baitap1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap1Jquery/baitap1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap1Jquery/script/baitap1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap1Jquery/jquery-3.2.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap1Jquery/script/jquery-3.2.1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Baitap2Jquery/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap2Jquery/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Baitap2Jquery/baitap2.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap2Jquery/baitap2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap2Jquery/baitap2.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap2Jquery/css/baitap2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap2Jquery/baitap2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap2Jquery/baitap2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap2Jquery/baitap2.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap2Jquery/script/baitap2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap2Jquery/jquery-3.2.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap2Jquery/script/jquery-3.2.1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap3.js" beforeDir="false" afterPath="$PROJECT_DIR$/baitap3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Baitap4Jquery/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap4Jquery/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Baitap4Jquery/baitap4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap4Jquery/baitap4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Baitap4Jquery/baitap4.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap4Jquery/baitap4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TweenMax.js" beforeDir="false" afterPath="$PROJECT_DIR$/script/TweenMax.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TweenMax.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/script/TweenMax.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap3.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/baitap3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap3.html" beforeDir="false" afterPath="$PROJECT_DIR$/baitap3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap3.js" beforeDir="false" afterPath="$PROJECT_DIR$/script/baitap3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/autumn_leaves1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/autumn_leaves1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/autumn_leaves2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/autumn_leaves2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/leaves1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/leaves1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/leaves2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/leaves2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/leaves3.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/leaves3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/leaves4.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/leaves4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/leaves5.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/leaves5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-3.2.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/script/jquery-3.2.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_html_css/Baitap1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_html_css/Baitap1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_html_css/Baitap1/baitap1.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_html_css/Baitap1/css/baitap1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_html_css/Baitap1/baitap1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_html_css/Baitap1/baitap1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_html_css/Baitap2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_html_css/Baitap2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_html_css/Baitap2/baitap2.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_html_css/Baitap2/css/baitap2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_html_css/Baitap2/baitap2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_html_css/Baitap2/baitap2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_html_css/Baitap3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_html_css/Baitap3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_html_css/Baitap3/baitap3.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_html_css/Baitap3/css/baitap3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_html_css/Baitap3/baitap3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_html_css/Baitap3/baitap3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_html_css/Baitap4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_html_css/Baitap4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_html_css/Baitap4/baitap4.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_html_css/Baitap4/css/baitap4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_html_css/Baitap4/baitap4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_html_css/Baitap4/baitap4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_html_css/Baitap5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_html_css/Baitap5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_html_css/Baitap5/baitap5.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_html_css/Baitap5/css/baitap5.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_html_css/Baitap5/baitap5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_html_css/Baitap5/baitap5.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,26 +86,26 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/baitap3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+            <state relative-caret-position="170">
+              <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/baitap3.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/baitap3.js">
+        <entry file="file://$PROJECT_DIR$/css/baitap3.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="58" lean-forward="true" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
+              <caret line="9" column="28" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/script/baitap3.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="10" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -66,16 +129,16 @@
       <list>
         <option value="$PROJECT_DIR$/../Baitap1JQ/baitap1.js" />
         <option value="$PROJECT_DIR$/baitap3.css" />
-        <option value="$PROJECT_DIR$/baitap3.html" />
         <option value="$PROJECT_DIR$/baitap3.js" />
+        <option value="$PROJECT_DIR$/baitap3.html" />
+        <option value="$PROJECT_DIR$/script/baitap3.js" />
       </list>
     </option>
   </component>
   <component name="PhpDebugGeneral" listening_started="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="480" />
-    <option name="y" value="30" />
-    <option name="width" value="974" />
+    <option name="x" value="1469" />
+    <option name="width" value="458" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -84,6 +147,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -91,25 +155,25 @@
               <item name="Baitap3Jquery" type="b2602c69:ProjectViewProjectNode" />
               <item name="Baitap3Jquery" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Baitap3Jquery" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Baitap3Jquery" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Baitap2Jquery" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Baitap4Jquery" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\nhanminhhieu.github.io\Bai_tap_Jquery\Baitap3Jquery\script" />
+      <recent name="C:\Users\User\Desktop\nhanminhhieu.github.io\Bai_tap_Jquery\Baitap3Jquery\css" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -146,20 +210,26 @@
       <workItem from="1547461880917" duration="632000" />
       <workItem from="1547517600769" duration="461000" />
       <workItem from="1547518081479" duration="52000" />
+      <workItem from="1548238139644" duration="1154000" />
+      <workItem from="1548288499272" duration="24000" />
+      <workItem from="1548294536196" duration="720000" />
+      <workItem from="1548295754486" duration="13000" />
+      <workItem from="1548297025548" duration="2416000" />
+      <workItem from="1548299523868" duration="20000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38804000" />
+    <option name="totallyTimeSpent" value="43151000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.039445627" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13326226" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49840087" weight="0.32936078" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -169,7 +239,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" visible="true" weight="0.032502707" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50159913" side_tool="true" visible="true" weight="0.032502707" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -182,27 +252,27 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../Baitap1JQ/baitap1.js" />
     <entry file="file://$PROJECT_DIR$/../Baitap1JQ/baitap1.html" />
-    <entry file="file://$PROJECT_DIR$/img/leaves1.png">
+    <entry file="file://$PROJECT_DIR$/images/leaves1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/baitap3.css">
+    <entry file="file://$PROJECT_DIR$/script/baitap3.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        <state relative-caret-position="374">
+          <caret line="22" column="10" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/baitap3.js">
+    <entry file="file://$PROJECT_DIR$/css/baitap3.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="58" lean-forward="true" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/baitap3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        <state relative-caret-position="170">
+          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
         </state>
       </provider>
     </entry>

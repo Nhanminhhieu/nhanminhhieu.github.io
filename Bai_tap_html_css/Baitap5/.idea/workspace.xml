@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef3101a7-e5f3-4fc0-8454-760e7704b031" name="Default Changelist" comment="" />
+    <list default="true" id="ef3101a7-e5f3-4fc0-8454-760e7704b031" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap1/baitap1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap1/baitap1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Jquery/Baitap3Jquery/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Jquery/Baitap3Jquery/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap1/baitap1.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap1/css/baitap1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap1/baitap1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap1/baitap1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap2/baitap2.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap2/css/baitap2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap2/baitap2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap2/baitap2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap3/baitap3.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap3/css/baitap3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap3/baitap3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap3/baitap3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap4/baitap4.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap4/css/baitap4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap4/baitap4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap4/baitap4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap5.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/baitap5.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap5.html" beforeDir="false" afterPath="$PROJECT_DIR$/baitap5.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,19 +30,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/baitap5.css">
+        <entry file="file://$PROJECT_DIR$/baitap5.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-327">
-              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+            <state relative-caret-position="731">
+              <caret line="43" column="62" selection-start-line="43" selection-start-column="62" selection-end-line="43" selection-end-column="62" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/baitap5.html">
+        <entry file="file://$PROJECT_DIR$/css/baitap5.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
-              <caret line="43" column="62" selection-start-line="43" selection-start-column="62" selection-end-line="43" selection-end-column="62" />
+            <state relative-caret-position="306">
+              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -38,10 +57,11 @@
       <list>
         <option value="$PROJECT_DIR$/baitap5.html" />
         <option value="$PROJECT_DIR$/baitap5.css" />
+        <option value="$PROJECT_DIR$/css/baitap5.css" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -68,9 +88,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Baitap4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap1" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\nhanminhhieu.github.io\Bai_tap_html_css\Baitap5\css" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -106,16 +131,17 @@
       <workItem from="1547170225565" duration="1496000" />
       <workItem from="1547440786862" duration="2059000" />
       <workItem from="1547448496950" duration="115000" />
+      <workItem from="1548295894565" duration="31000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29318000" />
+    <option name="totallyTimeSpent" value="29349000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14113785" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21375267" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -143,17 +169,17 @@
     <entry file="file://$PROJECT_DIR$/images/pic_poster.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/baitap5.html">
+    <entry file="file://$PROJECT_DIR$/css/baitap5.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="43" column="62" selection-start-line="43" selection-start-column="62" selection-end-line="43" selection-end-column="62" />
+        <state relative-caret-position="306">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/baitap5.css">
+    <entry file="file://$PROJECT_DIR$/baitap5.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-327">
-          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        <state relative-caret-position="731">
+          <caret line="43" column="62" selection-start-line="43" selection-start-column="62" selection-end-line="43" selection-end-column="62" />
         </state>
       </provider>
     </entry>
