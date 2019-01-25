@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="978170e1-5c31-4703-8fc4-0d0891df99c4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../Baitap1Responsive/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap1Responsive/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/baitap3.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/baitap3.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +16,7 @@
         <entry file="file://$PROJECT_DIR$/baitap3.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="268">
-              <caret line="35" column="51" lean-forward="true" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
+              <caret line="35" column="51" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -25,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/baitap3.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="137" column="14" selection-start-line="137" selection-start-column="14" selection-end-line="137" selection-end-column="14" />
+            <state relative-caret-position="132">
+              <caret line="179" column="33" lean-forward="true" selection-start-line="179" selection-start-column="33" selection-end-line="179" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -132,17 +131,18 @@
       <workItem from="1548323909227" duration="2501000" />
       <workItem from="1548326608313" duration="74000" />
       <workItem from="1548326887326" duration="41000" />
+      <workItem from="1548327035139" duration="427000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41279000" />
+    <option name="totallyTimeSpent" value="41706000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="481" y="46" width="1122" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27306968" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2787194" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -200,14 +200,14 @@
     <entry file="file://$PROJECT_DIR$/baitap3.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="268">
-          <caret line="35" column="51" lean-forward="true" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
+          <caret line="35" column="51" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/baitap3.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="137" column="14" selection-start-line="137" selection-start-column="14" selection-end-line="137" selection-end-column="14" />
+        <state relative-caret-position="132">
+          <caret line="179" column="33" lean-forward="true" selection-start-line="179" selection-start-column="33" selection-end-line="179" selection-end-column="33" />
         </state>
       </provider>
     </entry>

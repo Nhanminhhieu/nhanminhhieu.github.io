@@ -25,16 +25,16 @@
 .content__detail1 p:nth-child(2) {
   color: #af0000;
 }
-.js-content__detail1--color {
+.content__detail1--color {
   color: #af0000;
 }
-.js-content__detail2__list1{
+.content__detail2__list1 img{
   content: url("../images/pic_img5.jpg");
 }
-.js-content__detail2__list2{
+.content__detail2__list2 img{
   content: url("../images/pic_img6.jpg");
 }
-.js-content__detail2__list4{
+.content__detail2__list4 img{
   content: url("../images/pic_img7.jpg");
 }
 .img__hp {
