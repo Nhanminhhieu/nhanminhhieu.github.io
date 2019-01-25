@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ad3a0659-78e1-4bdb-9fcb-fd0985d31b46" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../Baitap2Responsive/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap2Responsive/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Baitap2Responsive/css/baitap2.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap2Responsive/css/baitap2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap3Responsive/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap3Responsive/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap3Responsive/baitap3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap3Responsive/baitap3.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,8 +64,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="1225" />
-    <option name="width" value="702" />
+    <option name="x" value="481" />
+    <option name="y" value="46" />
+    <option name="width" value="1122" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -73,6 +75,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -80,17 +83,21 @@
               <item name="Baitap1Responsive" type="b2602c69:ProjectViewProjectNode" />
               <item name="Baitap1Responsive" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Baitap1Responsive" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Baitap1Responsive" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Baitap2Responsive" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Baitap3Responsive" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -147,12 +154,12 @@
       <workItem from="1548299692578" duration="38000" />
       <workItem from="1548312480173" duration="283000" />
       <workItem from="1548326683719" duration="988000" />
-      <workItem from="1548384461221" duration="227000" />
+      <workItem from="1548384461221" duration="730000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122527000" />
+    <option name="totallyTimeSpent" value="123257000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
