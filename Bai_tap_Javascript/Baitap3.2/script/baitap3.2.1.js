@@ -15,6 +15,7 @@ var Piechart = function (options) {
         drawText(ctx);
     }
 }
+//draw line char
 function drawLine(ctx) {
     ctx.beginPath();
     for(var i=0; i<5; i++) {
@@ -29,6 +30,7 @@ function drawLine(ctx) {
     }
     ctx.closePath();
 }
+//draw title chart
 function drawTitle(ctx) {
     ctx.beginPath();
     ctx.font = "40px Time New Roman";
@@ -36,6 +38,7 @@ function drawTitle(ctx) {
     ctx.fillText("BIỂU ĐỒ LỊCH SỬ OF POSITION",360,150);
     ctx.stroke();
 }
+//draw text chart
 function drawText(ctx) {
     ctx.beginPath();
     ctx.fillStyle = "#2915ff"
@@ -50,6 +53,7 @@ function drawText(ctx) {
     ctx.fillText("LEVEL OF POSITION",-90,200);
     ctx.stroke();
 }
+//draw colchart
 function drawCol (ctx,data, name) {
     var changeXPrintCol = 300;
     var heightCol = 100;

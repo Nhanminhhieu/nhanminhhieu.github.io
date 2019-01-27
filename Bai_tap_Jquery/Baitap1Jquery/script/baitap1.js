@@ -2,41 +2,54 @@ $(document).ready(function () {
     $(".content").hide();
     var oldIndexClicked = "";
     //when img click change img hover, this id slideup
-    $(".about").click( function(){
-        var idClicked = $(".about").index($(this)) + 1;
-        $(".about").eq(idClicked - 1).attr("src","images/about" + idClicked + "_mb_hover.jpg");
+    $(".js-about").click( function(){
+        var idClicked = $(".js-about").index($(this)) + 1;
+        $(".js-about").eq(idClicked - 1).attr("src","images/about" + idClicked + "_mb_hover.jpg");
          $(this).next().slideToggle();
         //close tagIndex old
         if(oldIndexClicked != idClicked && oldIndexClicked !="") {
-           $(".about").eq(oldIndexClicked - 1).attr("src", "images/about" + oldIndexClicked + "_mb.jpg");
-            $(".about").eq(oldIndexClicked - 1).next().hide();
+           $(".js-about").eq(oldIndexClicked - 1).attr("src", "images/about" + oldIndexClicked + "_mb.jpg");
+            $(".js-about").eq(oldIndexClicked - 1).next().hide();
         }
         //change Img when index equal
         if(oldIndexClicked == idClicked) {
-            $(".about").eq(idClicked - 1).attr("src", "images/about" + idClicked + "_mb.jpg");
+            $(".js-about").eq(idClicked - 1).attr("src", "images/about" + idClicked + "_mb.jpg");
             oldIndexClicked = "";
             return;
         }
         timeOut(idClicked - 1);
     oldIndexClicked = idClicked;
+    if (idClicked%2==0)
+        aboutInfo1();
+    else
+        aboutInfo();
     });
-     aboutInfo();
 });
 //when click show info
 function aboutInfo() {
     $(".content__img").click(function () {
-        $(".about").css({pointerEvents: "none"})
-        $("#common__product").animate({top: "70px"});
+        $(".js-about").css({pointerEvents: "none"})
+        $("#js-common__product").animate({top: "70px"});
     });
     $(".common__product__img--close").click(function () {
-        $("#common__product").animate({top: "-500px"});
-        $(".about").css({pointerEvents: "auto"})
+        $("#js-common__product").animate({top: "-500px"});
+        $(".js-about").css({pointerEvents: "auto"})
+    });
+}
+function aboutInfo1() {
+    $(".content__img").click(function () {
+        $(".js-about").css({pointerEvents: "none"})
+        $("#js-common__product1").animate({top: "70px"});
+    });
+    $(".common__product__img--close").click(function () {
+        $("#js-common__product1").animate({top: "-500px"});
+        $(".js-about").css({pointerEvents: "auto"})
     });
 }
 //when click disable click and after able click,
 function timeOut(idClicked) {
-    $(".about").eq(idClicked).css({pointerEvents: "none"})
+    $(".js-about").eq(idClicked).css({pointerEvents: "none"})
     setTimeout( function(){
-        $(".about").eq(idClicked).css({pointerEvents: "auto"})
+        $(".js-about").eq(idClicked).css({pointerEvents: "auto"})
     }, 500);
 }

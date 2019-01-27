@@ -8,7 +8,7 @@
   margin-right: auto;
   width: 300px;
 }
-.about {
+.js-about {
   margin-left: 15px;
 }
 .content {
@@ -36,7 +36,19 @@
   margin-top: 15px;
   margin-bottom: 20px;
 }
-#common__product {
+#js-common__product {
+  margin-left: auto;
+  margin-right: auto;
+  position: absolute;
+  top: -500px;
+  width: 300px;
+  background: #fff;
+  box-sizing: border-box;
+  border: 2px solid #a27c21;
+  border-radius: 5px;
+  padding: 5px;
+}
+#js-common__product1 {
   margin-left: auto;
   margin-right: auto;
   position: absolute;

@@ -21,6 +21,7 @@ var Piechart = function (options) {
         }
     }
 }
+//draw drawPieSlice
 function drawPieSlice (ctx,centerX, centerY, radius, startAngle, endAngle, color) {
     ctx.beginPath();
     ctx.fillStyle = color
@@ -29,6 +30,8 @@ function drawPieSlice (ctx,centerX, centerY, radius, startAngle, endAngle, color
     ctx.closePath();
     ctx.fill();
 }
+//draw line
+//@ ctx, @x1,@y1,@x2,@y2,@x3,@y3,@widthline,@color
 function drawLine (ctx,x1,y1,x2,y2,x3,y3,line,color){
     ctx.beginPath();
     ctx.moveTo(x1, y1);
@@ -38,6 +41,8 @@ function drawLine (ctx,x1,y1,x2,y2,x3,y3,line,color){
     ctx.strokeStyle = color;
     ctx.stroke();
 }
+//info on chart
+//@ctx, @stringText, @x , @y ,color
 function drawText(ctx, text, x , y, color) {
     ctx.beginPath();
     ctx.font = "20px Time New Roman";

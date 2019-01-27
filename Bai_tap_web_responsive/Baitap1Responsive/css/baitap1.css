@@ -324,6 +324,9 @@ body {
 .content2__btn__img1 {
   padding-right: 53%;
  }
+.hightlight {
+  background: #fff;
+}
  /*****************************
  ****
  *
@@ -332,6 +335,10 @@ body {
  **
  */
 @media screen and (min-width: 1280px){
+  .content {
+    width: 100%;
+    background-image: url("../images/png_background.png");
+  }
   .container {
     width: 68.04%;
   }
@@ -368,9 +375,11 @@ body {
   }
   /*******************************************/
   .check-jp1 {
+
     display: inline;
   }
   .check-jp {
+    margin-top: 40px;
     background: #6efe99;
   }
   /*******************************************/
@@ -390,11 +399,20 @@ body {
   .content__comment2 {
     font-size: 15px;
   }
+  .content__comment__female {
+    padding: .5em;
+    margin-top: .5em;
+  }
+  .content__comment__female:before {
+    left: 32px;
+  }
   .content__comment__female--comment1 {
     width: 35%;
+    margin-left: 200px;
   }
   .content__comment__female--comment2 {
-    width: 55%;
+    width: 57%;
+    margin-left: 200px;
   }
   .hide__text {
     display: none;
@@ -404,60 +422,88 @@ body {
   }
   .content__comment__female--comment3 {
     width: 30%;
-    top:-85px;
-    margin-left: 90px;
+    top:-74px;
+    margin-left: 80px;
   }
   .content__comment__female--comment4 {
     display: block;
-    width: 40%;
-    right: 50px;
-    top: -300px;
+    width: 35%;
+    right: 100px;
+    top: -266px;
     float: right;
     clear: right;
   }
   .content__comment__female--comment4:before {
     display: none;
   }
+  .content__comment__female--comment4:before {
+    display: none;
+  }
+  .content__comment__male {
+    padding: .5em;
+    margin-top: .5em;
+  }
+  .content__comment__male:before {
+    right: -4em;
+  }
   .content__comment__male--comment1 {
-    width: 28%;
-    margin-left: 500px;
+    width: 30%;
+    margin-left: 390px;
   }
   .content__comment__male--comment2 {
-    width: 40%;
+    width: 36%;
     display: inline-block;
+    margin-left: 80px;
   }
   .content__comment__male--comment3 {
-    width: 40%;
+    width: 36%;
+    margin-left: 80px;
   }
   .content__comment__male--comment4 {
     display: block;
-    width: 30%;
-    top: -430px;
-    margin-right: 95px;
+    width: 35%;
+    top: -350px;
+    margin-right: 100px;
     float: right;
     clear: right;
     margin-bottom: 20px;
   }
+  .custom__hr {
+    margin: 10px 0 10px 43px;
+    border: 1px solid #95ded9;
+    width: 251px;
+  }
   .content__comment__male--comment5 {
     display: block;
-    width: 28%;
-    margin-left: 500px;
+    width: 35%;
+    top: 2px;
+    margin-left: 450px;
   }
+
   .content__comment__male--comment6 {
     display: block;
-    width: 28%;
+    width: 35%;
+    top: -70px;
+    margin-left: 80px;
   }
   .content__comment__male--comment1 img {
     padding-top: .5em;
     padding-bottom: .2em;
   }
   .content__comment__male--comment4 img {
-       padding-top: 1.5em;
+       padding-top: 1em;
        padding-bottom: .5em;
        float: left;
        clear: left;
        padding-right: .5em;
      }
+  .content__comment__male--comment5 img {
+    padding-top: .5em;
+    padding-bottom: .5em;
+    float: left;
+    clear: left;
+    padding-right: .5em;
+  }
   .content__comment__male--comment2::before{
     display: none;
   }
@@ -475,6 +521,9 @@ body {
   }
   .content2__btn__img11 {
     display: none;
+  }
+  .content2__btn__img12 {
+    width: 100%;
   }
   /*******************************************/
   .footer {

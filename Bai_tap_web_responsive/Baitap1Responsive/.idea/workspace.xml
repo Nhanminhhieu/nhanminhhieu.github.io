@@ -2,9 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad3a0659-78e1-4bdb-9fcb-fd0985d31b46" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Baitap2Responsive/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap2Responsive/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap2.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap2.1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap2.1/baitap2.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap2.1/baitap2.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap2.1/script/baitap2.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap2.1/script/baitap2.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap3.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap3.1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap3.1/script/baitap3.1.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap3.1/script/baitap3.1.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap3.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap3.2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap3.2/script/baitap3.2.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap3.2/script/baitap3.2.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Jquery/Baitap1Jquery/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Jquery/Baitap1Jquery/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Jquery/Baitap1Jquery/baitap1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Jquery/Baitap1Jquery/baitap1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Jquery/Baitap1Jquery/css/baitap1.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Jquery/Baitap1Jquery/css/baitap1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Jquery/Baitap1Jquery/script/baitap1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Jquery/Baitap1Jquery/script/baitap1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap1.html" beforeDir="false" afterPath="$PROJECT_DIR$/baitap1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/baitap1.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/baitap1.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Baitap3Responsive/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap3Responsive/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Baitap3Responsive/baitap3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap3Responsive/baitap3.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,20 +26,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/baitap1.css">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/baitap1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="172" column="18" selection-start-line="172" selection-start-column="18" selection-end-line="172" selection-end-column="18" />
+            <state relative-caret-position="476">
+              <caret line="52" column="29" lean-forward="true" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/baitap1.html">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/baitap1.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
-              <caret line="60" column="77" selection-start-line="60" selection-start-column="77" selection-end-line="60" selection-end-column="77" />
+            <state relative-caret-position="358">
+              <caret line="135" selection-start-line="135" selection-end-line="135" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -39,6 +51,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -57,16 +70,17 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/baitap2.css" />
-        <option value="$PROJECT_DIR$/baitap1.html" />
         <option value="$PROJECT_DIR$/baitap1.css" />
         <option value="$PROJECT_DIR$/css/baitap1.css" />
+        <option value="$PROJECT_DIR$/script/baitap1.js" />
+        <option value="$PROJECT_DIR$/baitap1.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="481" />
-    <option name="y" value="46" />
-    <option name="width" value="1122" />
+    <option name="x" value="540" />
+    <option name="y" value="66" />
+    <option name="width" value="779" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -75,7 +89,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -92,12 +105,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Baitap3Responsive" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -154,18 +168,22 @@
       <workItem from="1548299692578" duration="38000" />
       <workItem from="1548312480173" duration="283000" />
       <workItem from="1548326683719" duration="988000" />
-      <workItem from="1548384461221" duration="730000" />
+      <workItem from="1548384461221" duration="8990000" />
+      <workItem from="1548502376025" duration="598000" />
+      <workItem from="1548510767389" duration="300000" />
+      <workItem from="1548511090872" duration="145000" />
+      <workItem from="1548521989953" duration="2947000" />
+      <workItem from="1548561511052" duration="2796000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123257000" />
+    <option name="totallyTimeSpent" value="138303000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09541578" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.081023455" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -179,14 +197,14 @@
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35327962" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2599179" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -200,7 +218,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -211,12 +229,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/PC_3155-1_52.jpg" />
-    <entry file="file://$PROJECT_DIR$/images/PC_3155-1_26.jpg" />
-    <entry file="file://$PROJECT_DIR$/images/PC_3155-1_22.jpg" />
-    <entry file="file://$PROJECT_DIR$/images/PC_3155-1_08.jpg" />
-    <entry file="file://$PROJECT_DIR$/images/PC_3155-1_06.jpg" />
-    <entry file="file://$PROJECT_DIR$/images/PC_3155-1_03.jpg" />
     <entry file="file://$PROJECT_DIR$/images/PC_3155-1_50.jpg" />
     <entry file="file://$PROJECT_DIR$/images/PC_3155-1_29.jpg" />
     <entry file="file://$PROJECT_DIR$/images/PC_3155-1_54.jpg" />
@@ -246,10 +258,27 @@
     <entry file="file://$PROJECT_DIR$/images/icn_male.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/icn_earth.png">
+    <entry file="file://$PROJECT_DIR$/images/icn_audio_small.png" />
+    <entry file="file://$PROJECT_DIR$/images/icn_btn3.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/icn_btn1.png">
+    <entry file="file://$PROJECT_DIR$/images/SP_3155-1_20.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/SP_3155-1_17.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/SP_3155-1_03.png" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/phrase.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="345" column="16" selection-start-line="345" selection-start-column="16" selection-end-line="345" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/baitap1.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/btn-next.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/btn-pre.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/images/icn_add.png">
@@ -258,60 +287,68 @@
     <entry file="file://$PROJECT_DIR$/images/icn_audio.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/icn_audio_small.png" />
+    <entry file="file://$PROJECT_DIR$/images/icn_btn1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icn_btn2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icn_btn_user.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icn_chat.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icn_earth.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/images/icn_female.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/images/icn_female_small.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/icn_male_small.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/icn_menu.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/icn_next.png">
+    <entry file="file://$PROJECT_DIR$/images/icn_sound.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/images/muiten.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/icn_chat.png">
+    <entry file="file://$PROJECT_DIR$/images/pic-arow-pc.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/icn_btn_user.png">
+    <entry file="file://$PROJECT_DIR$/images/png_background.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/icn_btn3.png">
+    <entry file="file://$PROJECT_DIR$/images/SP_3155-1_07.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/icn_btn2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/SP_3155-1_20.jpg" />
-    <entry file="file://$PROJECT_DIR$/images/SP_3155-1_17.jpg" />
-    <entry file="file://$PROJECT_DIR$/images/SP_3155-1_03.png" />
     <entry file="file://$PROJECT_DIR$/images/SP_3155-1_09.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/images/SP_3155-1_14.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/SP_3155-1_07.png">
+    <entry file="file://$PROJECT_DIR$/images/icn_next.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/baitap1.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="172" column="18" selection-start-line="172" selection-start-column="18" selection-end-line="172" selection-end-column="18" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/images/icn_menu.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icn_male_small.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/baitap1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="60" column="77" selection-start-line="60" selection-start-column="77" selection-end-line="60" selection-end-column="77" />
+        <state relative-caret-position="476">
+          <caret line="52" column="29" lean-forward="true" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/baitap1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="135" selection-start-line="135" selection-end-line="135" selection-end-column="36" />
         </state>
       </provider>
     </entry>

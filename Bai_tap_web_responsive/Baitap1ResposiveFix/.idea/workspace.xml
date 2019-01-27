@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4275ae14-6890-4c7b-a457-aa4e7d7e10cd" name="Default Changelist" comment="">
+    <list default="true" id="8c396639-a231-4148-9026-7ae9b52b5a66" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap2.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap2.1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap2.1/baitap2.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap2.1/baitap2.1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap2.1/script/baitap2.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap2.1/script/baitap2.1.js" afterDir="false" />
@@ -9,13 +9,14 @@
       <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap3.1/script/baitap3.1.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap3.1/script/baitap3.1.1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap3.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap3.2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap3.2/script/baitap3.2.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Javascript/Baitap3.2/script/baitap3.2.1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap1.html" beforeDir="false" afterPath="$PROJECT_DIR$/baitap1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/baitap1.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/baitap1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/baitap1.js" beforeDir="false" afterPath="$PROJECT_DIR$/script/baitap1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bai_tap_web_responsive/Baitap1Responsive/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_web_responsive/Baitap1Responsive/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bai_tap_web_responsive/Baitap1Responsive/baitap1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_web_responsive/Baitap1Responsive/baitap1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bai_tap_web_responsive/Baitap1Responsive/css/baitap1.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_web_responsive/Baitap1Responsive/css/baitap1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bai_tap_web_responsive/Baitap3Responsive/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_web_responsive/Baitap3Responsive/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Jquery/Baitap1Jquery/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Jquery/Baitap1Jquery/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Jquery/Baitap1Jquery/baitap1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Jquery/Baitap1Jquery/baitap1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Jquery/Baitap1Jquery/css/baitap1.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Jquery/Baitap1Jquery/css/baitap1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai_tap_Jquery/Baitap1Jquery/script/baitap1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai_tap_Jquery/Baitap1Jquery/script/baitap1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap1Responsive/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap1Responsive/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap1Responsive/baitap1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap1Responsive/baitap1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap1Responsive/css/baitap1.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap1Responsive/css/baitap1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap3Responsive/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap3Responsive/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,19 +27,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/script/baitap1.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/baitap1.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="60" column="15" selection-start-line="60" selection-start-column="15" selection-end-line="60" selection-end-column="15" />
+            <state relative-caret-position="549">
+              <caret line="241" column="22" selection-start-line="241" selection-start-column="22" selection-end-line="241" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -46,24 +38,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/baitap1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="103" column="20" lean-forward="true" selection-start-line="103" selection-start-column="20" selection-end-line="103" selection-end-column="20" />
+            <state relative-caret-position="612">
+              <caret line="66" column="73" lean-forward="true" selection-start-line="66" selection-start-column="73" selection-end-line="66" selection-end-column="101" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/script/jquery-3.2.1.js">
+        <entry file="file://$PROJECT_DIR$/script/baitap1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="340">
+              <caret line="20" column="6" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -71,19 +70,21 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/baitap1.js" />
         <option value="$PROJECT_DIR$/baitap1.html" />
         <option value="$PROJECT_DIR$/css/baitap1.css" />
         <option value="$PROJECT_DIR$/script/baitap1.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1193" />
-    <option name="width" value="734" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="540" />
+    <option name="y" value="66" />
+    <option name="width" value="779" />
     <option name="height" value="1047" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -93,18 +94,13 @@
         <subPane>
           <expand>
             <path>
-              <item name="Baitap1Jquery" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Baitap1Jquery" type="462c0819:PsiDirectoryNode" />
+              <item name="Baitap1ResposiveFix" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Baitap1ResposiveFix" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Baitap1Jquery" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Baitap1Jquery" type="462c0819:PsiDirectoryNode" />
+              <item name="Baitap1ResposiveFix" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Baitap1ResposiveFix" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Baitap1Jquery" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Baitap1Jquery" type="462c0819:PsiDirectoryNode" />
-              <item name="script" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -114,16 +110,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Baitap1Responsive" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\User\Desktop\nhanminhhieu.github.io\Bai_tap_Jquery\Baitap1Jquery\script" />
-      <recent name="C:\Users\User\Desktop\nhanminhhieu.github.io\Bai_tap_Jquery\Baitap1Jquery\css" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -142,29 +134,24 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4275ae14-6890-4c7b-a457-aa4e7d7e10cd" name="Default Changelist" comment="" />
-      <created>1547516466708</created>
+      <changelist id="8c396639-a231-4148-9026-7ae9b52b5a66" name="Default Changelist" comment="" />
+      <created>1548511237788</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1547516466708</updated>
-      <workItem from="1547516467884" duration="1014000" />
-      <workItem from="1547517512194" duration="79000" />
-      <workItem from="1548296877067" duration="97000" />
-      <workItem from="1548300126332" duration="926000" />
-      <workItem from="1548301130996" duration="4201000" />
-      <workItem from="1548311494296" duration="105000" />
-      <workItem from="1548388335973" duration="1880000" />
+      <updated>1548511237788</updated>
+      <workItem from="1548511238994" duration="19316000" />
+      <workItem from="1548561510469" duration="8368000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8302000" />
+    <option name="totallyTimeSpent" value="27684000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12953092" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34754798" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -184,62 +171,57 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.15937072" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/about1_mb.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/about2_mb.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/about3_mb.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/about3_mb_hover.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/about4_mb_hover.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/box_1_img_1.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/box_1_img_2.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/about1_mb_hover.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/baitap1.css">
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/web-forms.rnc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="60" column="15" selection-start-line="60" selection-start-column="15" selection-end-line="60" selection-end-column="15" />
+        <state relative-caret-position="731">
+          <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/baitap1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="103" column="20" lean-forward="true" selection-start-line="103" selection-start-column="20" selection-end-line="103" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/script/jquery-3.2.1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="612">
+          <caret line="66" column="73" lean-forward="true" selection-start-line="66" selection-start-column="73" selection-end-line="66" selection-end-column="101" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/script/baitap1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+        <state relative-caret-position="340">
+          <caret line="20" column="6" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/baitap1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="241" column="22" selection-start-line="241" selection-start-column="22" selection-end-line="241" selection-end-column="22" />
         </state>
       </provider>
     </entry>

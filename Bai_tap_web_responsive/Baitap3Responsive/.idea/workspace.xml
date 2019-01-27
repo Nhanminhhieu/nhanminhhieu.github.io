@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="978170e1-5c31-4703-8fc4-0d0891df99c4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Baitap1Responsive/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap1Responsive/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Baitap2Responsive/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap2Responsive/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap3.html" beforeDir="false" afterPath="$PROJECT_DIR$/baitap3.html" afterDir="false" />
-    </list>
+    <list default="true" id="978170e1-5c31-4703-8fc4-0d0891df99c4" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/baitap3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="515">
-              <caret line="73" column="69" selection-start-line="73" selection-start-column="69" selection-end-line="73" selection-end-column="69" />
+            <state relative-caret-position="430">
+              <caret line="68" column="45" lean-forward="true" selection-start-line="68" selection-start-column="45" selection-end-line="68" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -56,7 +52,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="481" />
     <option name="y" value="46" />
     <option name="width" value="1122" />
@@ -87,7 +83,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Baitap1Responsive" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -134,16 +130,15 @@
       <workItem from="1548326608313" duration="74000" />
       <workItem from="1548326887326" duration="41000" />
       <workItem from="1548327035139" duration="427000" />
-      <workItem from="1548385126294" duration="106000" />
+      <workItem from="1548385126294" duration="376000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41812000" />
+    <option name="totallyTimeSpent" value="42082000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1609808" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -209,8 +204,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/baitap3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="73" column="69" selection-start-line="73" selection-start-column="69" selection-end-line="73" selection-end-column="69" />
+        <state relative-caret-position="430">
+          <caret line="68" column="45" lean-forward="true" selection-start-line="68" selection-start-column="45" selection-end-line="68" selection-end-column="45" />
         </state>
       </provider>
     </entry>
