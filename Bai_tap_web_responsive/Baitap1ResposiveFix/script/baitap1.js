@@ -18,6 +18,10 @@ $(document).ready(function () {
             $(".content3__left").css("display","block");
             $(".content3__right").css("display","block");
         }
+        else {
+            $(".content3__left").css("display","block");
+            $(".content3__right").css("display","none");
+        }
     })
 })
 function changeIcon(myID,myID1) {
